@@ -1,5 +1,5 @@
 ## Stock News
-The Stock News Alert System is a program that monitors the price of a chosen stock and sends SMS notifications if the stock price changes by more than 3% within a single day.
+The Stock News Alert System is a program that monitors the daily price of a chosen stock and sends SMS notifications if the stock price changes by more than 3% within a single day.
 
 It uses following APIs:
 - [Alpha Vantage API](https://www.alphavantage.co/) to get stock price information.
